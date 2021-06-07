@@ -1,0 +1,10 @@
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\bin\Debug\Denklem Çözücü.exe.config
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\bin\Debug\Denklem Çözücü.exe
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\bin\Debug\Denklem Çözücü.pdb
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem Çözücü.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem_Çözücü.Form1.resources
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem_Çözücü.Properties.Resources.resources
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem Çözücü.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem Çözücü.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem Çözücü.exe
+C:\Users\alper\source\repos\Denklem Çözücü\Denklem Çözücü\obj\Debug\Denklem Çözücü.pdb
